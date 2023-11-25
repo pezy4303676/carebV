@@ -1,0 +1,25 @@
+{
+  "short_name": "CA-REB",
+  "name": "CAREB",
+  "icons": [
+    {
+      "src": "CA-REB.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "CA-REB.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "CA-REB.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
