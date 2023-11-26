@@ -12,9 +12,9 @@ alert("ola cuzao")
   return (
     <div className="App">
       <header className="App-header">
-   <div id='nnn' className='bg-rose-50 h-[60px] flex items-center justify-center gap-[10px]'>
-<button onClick={modevent} className='bg-gray-500 w-[50px] h-[30px] rounded-[8px] border-2'>ola</button>
-<button onClick={() => {}} className='bg-gray-500 w-[50px] h-[50px] rounded-[8px] border-2'>ola</button>
+   <div className='bg-slate-500 w-[100%] h-[60px] fixed z-10'>olaaaaaaa</div>
+   <div className='bg-slate-900 w-[100%] h-max'>
+    
    </div>
       </header>
     </div>
